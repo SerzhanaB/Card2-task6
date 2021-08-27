@@ -6,7 +6,7 @@ import Button from '@material-ui/core/Button';
 import { AppBar, Container, IconButton, Toolbar, Typography, Box } from '@material-ui/core';
 import MenuIcon from '@material-ui/icons/Menu';
 
-
+//Подгрузка стилей
 const useStyles = makeStyles((theme) => ({
   root: { 
     flexGrow:1
